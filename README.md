@@ -26,7 +26,7 @@ Place description here
 
 ### Built With
 
-This project was built with the following languages/framework.
+This project was built with the following languages and/or framework:
 
 * [Arduino](https://www.arduino.cc/)
 * [C++](https://www.cplusplus.com/)
