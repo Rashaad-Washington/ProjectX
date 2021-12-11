@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Rashaad-Washington/ProjectX">
-    <img src="images/APlogo.png" alt="Logo" width="220" height="92">
+    <img src="images/APlogo.png" alt="Logo" width="230" height="92">
   </a>
 
   <h3 align="center">ProjectX</h3>
