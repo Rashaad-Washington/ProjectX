@@ -1,1 +1,13 @@
-The project owner, Rashaad Washington, retains and reserves all rights to any source code, file, and work associated with ProjectX. It is not Open Source or Free. You cannot modify or redistribute this code without explicit permission from the copyright holder.
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+The project owner, Rashaad H. Washington, retains and reserves all rights to any
+source code, file, and work associated with ProjectX. It is not Open Source or Free.
+You cannot modify or redistribute this code without explicit permission from the copyright holder.
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+END OF TERMS AND CONDITIONS
+
+Copyright (c) 2021 Rashaad H. Washington
