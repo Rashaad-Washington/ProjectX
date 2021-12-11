@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Rashaad-Washington/ProjectX">
+  <a href="https://www.apsu.edu/">
     <img src="images/APlogo.png" alt="Logo" width="240" height="92">
   </a>
 
