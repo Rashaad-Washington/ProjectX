@@ -1,1 +1,1 @@
-Here contains the license
+The project owner, Rashaad Washington, retains and reserves all rights to any source code, file, and work associated with ProjectX. It is not Open Source or Free. You cannot modify or redistribute this code without explicit permission from the copyright holder.
