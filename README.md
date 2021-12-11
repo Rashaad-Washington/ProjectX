@@ -34,7 +34,7 @@ This project was built with the following languages/framework.
 <!-- LICENSE -->
 ## License
 
-See [LICENSE.txt](https://www.arduino.cc/) for more information.
+See [LICENSE.txt](https://github.com/Rashaad-Washington/ProjectX/blob/main/LICENSE.txt) for more information.
 
 <!-- CONTACT -->
 ## Contact
