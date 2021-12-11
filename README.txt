@@ -3,17 +3,17 @@
 Column 1: Time 
         - Data Type: void printTime()
         - Description: 
-        - Range: 
+        - Range: hh:mm::ss
 
 Column 2: Date
         - Data Type: void printDate()
         - Description: 
-        - Range: 
+        - Range: yy-mm-dd
 
 Column 3: Rained?
         - Data Type: void Rain()
         - Description: 
-        - Range: 
+        - Range: 0..1
 
 Column 4: Rain value
         - Data Type: void printTime()
@@ -25,22 +25,22 @@ Column 5: Temperature
         - Description: 
         - Range: 
 
-Column 6: Extend
+Column 6: Extend?
+        - Data Type: void printTime()
+        - Description: 
+        - Range: 0..1 
+
+Column 7: Extend Limit
         - Data Type: void printTime()
         - Description: 
         - Range: 
 
-Column 7: Date
+Column 2: Relay?
         - Data Type: void printTime()
         - Description: 
-        - Range: 
-
-Column 2: Relay
-        - Data Type: void printTime()
-        - Description: 
-        - Range: 
+        - Range: 0..1
         
-Column 9: Date
+Column 9: Relay Limit
         - Data Type: void printTime()
         - Description: 
         - Range: 
