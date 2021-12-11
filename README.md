@@ -41,7 +41,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- LICENSE -->
 ## License
 
-See `LICENSE.txt` for more information.
+https://github.com/Rashaad-Washington/ProjectX/blob/main/LICENSE.txt
+See [LICENSE.txt](https://www.arduino.cc/) for more information.
 
 <!-- CONTACT -->
 ## Contact
