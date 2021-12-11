@@ -68,8 +68,6 @@
 
 Place description here
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -79,16 +77,10 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [Arduino](https://nextjs.org/)
 * [C++](https://reactjs.org/)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -96,10 +88,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Rashaad Washington - rwashington12@my.apsu.edu
 
 Project Link: [https://github.com/Rashaad-Washington/ProjectX](https://github.com/Rashaad-Washington/ProjectX)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
