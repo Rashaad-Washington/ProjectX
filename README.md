@@ -1,7 +1,6 @@
 <div id="top"></div>
 
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://www.apsu.edu/">
