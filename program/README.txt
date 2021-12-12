@@ -23,7 +23,7 @@ Column 4: Rain value
 Column 5: Temperature
         - Data Type: void printTime()
         - Description: 
-        - Range: 
+        - Range: -20°C to +80°C.
 
 Column 6: Extend?
         - Data Type: void printTime()
